@@ -5,10 +5,10 @@ This project provides two CellProfiler-based segmentation pipelines for histolog
 
 Main Features
 
-⦁	Automated segmentation optimized for distinct intestinal compartments (epithelium vs. lamina propria).
-⦁	Quantification of protein markers (e.g., G3BP1) at the single-cell level.
-⦁	Extraction of nuclear morphology and cellular signal intensities.
-⦁	Export of tabular single-cell data for downstream analysis in R or Python.
+1. Automated segmentation optimized for distinct intestinal compartments (epithelium vs. lamina propria).
+2. Quantification of protein markers (e.g., G3BP1) at the single-cell level.
+3. Extraction of nuclear morphology and cellular signal intensities.
+4. Export of tabular single-cell data for downstream analysis in R or Python.
 
 Usage
 
